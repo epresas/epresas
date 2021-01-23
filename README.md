@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 - [Change height of li when ancestor has class CSS (LESS)](https://stackoverflow.com/questions/52511699/change-height-of-li-when-ancestor-has-class-css-less)
 <!-- STACKOVERFLOW:END -->
 
-[![epresas' github stats](https://github-readme-stats.vercel.app/api?username=epresas)](https://github.com/anuraghazra/github-readme-stats)
+### Github stats
+[![epresas' github stats](https://github-readme-stats.vercel.app/api?username=epresas&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
