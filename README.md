@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### Mi latest articles / blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I understood... javascript reduce method](https://dev.to/epresas/how-i-understood-javascript-reduce-method-1jbp)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
