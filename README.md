@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by epresas for Function not toggling how do I fix this problem?](https://stackoverflow.com/questions/66062757/function-not-toggling-how-do-i-fix-this-problem/66062912#66062912)
 - [How to access a grandchild element's css mixin in Polymer?](https://stackoverflow.com/questions/57691152/how-to-access-a-grandchild-elements-css-mixin-in-polymer)
 - [Is there a way to find multiple sibling elements in javascript? without jQuery](https://stackoverflow.com/questions/54803216/is-there-a-way-to-find-multiple-sibling-elements-in-javascript-without-jquery)
 - [Less mixin to create responsive floating classes](https://stackoverflow.com/questions/53478043/less-mixin-to-create-responsive-floating-classes)
 - [Answer by epresas for CSS transition rotate() and not translate()](https://stackoverflow.com/questions/52529658/css-transition-rotate-and-not-translate/52530430#52530430)
-- [Change height of li when ancestor has class CSS (LESS)](https://stackoverflow.com/questions/52511699/change-height-of-li-when-ancestor-has-class-css-less)
 <!-- STACKOVERFLOW:END -->
 
 ### Github stats
