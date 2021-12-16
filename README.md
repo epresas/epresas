@@ -1,7 +1,7 @@
 ### Hi there, I'm Ed 👋
 
-- 🔭 I’m currently working @ [Sngular](https://www.sngular.com/)
-- 🌱 I’m currently learning [React](https://reactjs.org/), [Webpack](https://webpack.js.org/), [Jest](https://jestjs.io/), [Testing-library](https://testing-library.com/)
+- 🔭 I’m currently working @ [Kairós DS](https://www.kairosds.com/)
+- 🌱 I’m currently learning [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Webpack](https://webpack.js.org/), [Testing-library](https://testing-library.com/)
 - 👯 I’m looking to collaborate on React projects, open source projects.
 <!--
 **epresas/epresas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
