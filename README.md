@@ -1,7 +1,7 @@
 ### Hi there, I'm Ed 👋
 
-- 🔭 I’m currently working @ [Kairós DS](https://www.kairosds.com/)
-- 🌱 I’m currently learning [React](https://reactjs.org/), [Next.js](https://nextjs.org/), [Webpack](https://webpack.js.org/), [Testing-library](https://testing-library.com/)
+- 🔭 I’m currently working @ [Cognizant](https://www.cognizant.com/es/es)
+- 🌱 I’m currently working on [React](https://reactjs.org/)
 - 👯 I’m looking to collaborate on React projects, open source projects.
 <!--
 **epresas/epresas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Mi latest articles / blog posts
+### My latest articles / blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How I understood... javascript reduce method](https://dev.to/epresas/how-i-understood-javascript-reduce-method-1jbp)
 <!-- BLOG-POST-LIST:END -->
