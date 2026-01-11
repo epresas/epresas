@@ -1,6 +1,6 @@
 ### Hi there, I'm Ed 👋
 
-- 🔭 I’m currently working @ [Cognizant](https://www.cognizant.com/es/es)
+- 🔭 I’m currently working @ [Open Digital Services](https://www.opendigitalservices.com/)
 - 🌱 I’m currently working on [React](https://reactjs.org/)
 - 👯 I’m looking to collaborate on React projects, open source projects.
 <!--
