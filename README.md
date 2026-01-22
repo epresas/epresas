@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ### My latest articles / blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How I understood... javascript reduce method](https://dev.to/epresas/how-i-understood-javascript-reduce-method-1jbp)
+- [Level Up Your TypeScript: Advanced Patterns Every Frontend Dev Should Know](https://dev.to/epresas/level-up-your-typescript-advanced-patterns-every-frontend-dev-should-know-mg3)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
